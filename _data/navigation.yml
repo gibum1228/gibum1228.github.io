@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About Me"
-      url: "aboutme"
   - title: "카테고리"
     children:
       - title: "알고리즘"
