@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About Me"
+      url: "aboutme"
   - title: "카테고리"
     children:
       - title: "알고리즘"
@@ -10,5 +12,3 @@ main:
         url: "/git"
       - title: "설치 방법"
         url: "/install"
-  - title: "About Me"
-      url: "aboutme"
