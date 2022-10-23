@@ -1,6 +1,12 @@
 # main links
 main:
   - title: "카테고리"
+    url: "/categories"
+  - title: "About Me"
+    url: "aboutme"
+
+sidebar-category:
+  - title: "카테고리"
     children:
       - title: "알고리즘"
         url: "/algorithm"
