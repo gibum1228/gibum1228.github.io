@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "카테고리"
+  - title: "카테고리 목록"
     url: "/categories"
+  - title: "태그 목록"
+    url: "/tags"
   - title: "About Me"
     url: "aboutme"
 
@@ -10,16 +12,16 @@ sidebar-category:
     children:
       - title: "알고리즘"
         url: "/algorithm"
-        category: "algorithm"
+        category: "알고리즘"
 
       - title: "데이터&인공지능"
         url: "/data_and_ai"
-        category: "data_and_ai"
+        category: "데이터&인공지능"
 
       - title: "Git"
         url: "/git"
-        category: "git"
+        category: "Git"
 
       - title: "설치 방법"
         url: "/install"
-        category: "install"
+        category: "설치 방법"
