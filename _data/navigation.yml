@@ -10,9 +10,16 @@ sidebar-category:
     children:
       - title: "알고리즘"
         url: "/algorithm"
+        category: "algorithm"
+
       - title: "데이터&인공지능"
         url: "/data_and_ai"
+        category: "data_and_ai"
+
       - title: "Git"
         url: "/git"
+        category: "git"
+
       - title: "설치 방법"
         url: "/install"
+        category: "install"
