@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "카테고리"
+    children:
+      - title: "알고리즘"
+        url: "/algorithm"
+      - title: "데이터&인공지능"
+        url: "/data_and_ai"
+      - title: "Git"
+        url: "/git"
+      - title: "설치 방법"
+        url: "/install"
+  - title: "About Me"
+      url: "aboutme"
