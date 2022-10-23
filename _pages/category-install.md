@@ -1,5 +1,5 @@
 ---
-title: "install"
+title: "설치 방법"
 layout: archive
 permalink: /install
 ---

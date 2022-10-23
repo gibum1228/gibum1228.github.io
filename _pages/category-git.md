@@ -1,5 +1,5 @@
 ---
-title: "git"
+title: "Git"
 layout: archive
 permalink: /git
 ---

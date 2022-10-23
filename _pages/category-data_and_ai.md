@@ -1,5 +1,5 @@
 ---
-title: "data_and_ai"
+title: "데이터 & 인공지능"
 layout: archive
 permalink: /data_and_ai
 ---
