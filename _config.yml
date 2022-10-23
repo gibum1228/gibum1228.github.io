@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "김기범의 개발 로그"
-title_separator          : "-"
+title                    : "🧑‍💻김기범의 개발 로그"
+title_separator          : "사회에 선한 영향력을!"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김기범"
 description              : "개발 및 연구 기록 블로그"
@@ -294,7 +294,7 @@ defaults:
         nav: "sidebar-category" # 추가한 부분
       toc: true
       toc_sticky: true
-      toc_label: "📌주요 목차"
+      toc_label: "주요 목차"
 
   # _pages
   - scope:
