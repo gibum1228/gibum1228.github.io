@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "🧑‍💻김기범의 개발 로그"
-title_separator          : "사회에 선한 영향력을!"
+title                    : "김기범의 개발 로그"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김기범"
+name                     : "🧑‍💻김기범"
 description              : "개발 및 연구 기록 블로그"
 url                      : "https://gibum1228.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
