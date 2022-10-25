@@ -25,3 +25,7 @@ sidebar-category:
       - title: "설치 방법"
         url: "/install"
         category: "install"
+
+      - title: "후기"
+        url: "/review"
+        category: "review"
