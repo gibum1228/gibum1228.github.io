@@ -22,9 +22,9 @@ sidebar-category:
         url: "/git"
         category: "git"
 
-      - title: "설치 방법"
-        url: "/install"
-        category: "install"
+      - title: "운영체제"
+        url: "/OS"
+        category: "OS"
 
       - title: "후기"
         url: "/review"

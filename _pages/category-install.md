@@ -1,9 +1,9 @@
 ---
-title: "설치 방법"
+title: "운영체제"
 layout: archive
-permalink: /install
+permalink: /OS
 ---
 
 
-{% assign posts = site.categories.install %}
+{% assign posts = site.categories.OS %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
