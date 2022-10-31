@@ -309,3 +309,10 @@ defaults:
       related: false
       sidebar: # 추가한 부분
         nav: "sidebar-category" # 추가한 부분
+
+markdown: kramdown
+kramdown:
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
