@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko_KR"
@@ -108,11 +108,11 @@ author:
   avatar           : /assets/images/beom.jpeg
   bio              : "제가 만든 서비스로 사회에 선한 영향을 주고 싶은 김기범입니다."
   location         : "South Korea"
-  email            : gibum1228@gmail.com
+  # email            : gibum1228@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gibum1228@gmail.com"
+      # url: "mailto:gibum1228@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
