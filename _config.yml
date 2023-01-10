@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "김기범"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한 명이라도 사용하는 서비스를 만들어 사회에 선한 영향력을 주고 싶은 개발자입니다."
+  avatar           : /assets/images/beom.jpeg
+  bio              : "제가 만든 서비스로 사회에 선한 영향을 주고 싶은 김기범입니다."
   location         : "South Korea"
   email            : gibum1228@gmail.com
   links:
@@ -127,7 +127,7 @@ author:
       url: "https://github.com/gibum1228"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/beom3s"
+      # url: "https://instagram.com/beom3s"
 
 # Site Footer
 footer:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/gibum1228"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
