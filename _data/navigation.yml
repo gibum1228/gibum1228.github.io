@@ -26,9 +26,9 @@ sidebar-category:
         url: "/git"
         category: "git"
 
-      - title: "운영체제"
-        url: "/OS"
-        category: "OS"
+      - title: "툴 사용법"
+        url: "/tool"
+        category: "tool"
 
       - title: "후기"
         url: "/review"

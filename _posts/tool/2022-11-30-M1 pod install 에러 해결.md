@@ -2,9 +2,9 @@
 title: "[MAC/M1] M1칩 M1 칩에서 pod install 이슈 해결하기"
 
 categories:
-  - OS
+  - tool
 tags:
-  - [OS, 운영체제, MAC, M1, pod install ,issue]
+  - [tool, 운영체제, MAC, M1, pod install ,issue]
 ---
 
 MacBook M1 칩에서 Firebase를 이용해 Swift 프로젝트를 진행하려고 했는데 pod install 하는 과정에서 에러가 발생했다.   
