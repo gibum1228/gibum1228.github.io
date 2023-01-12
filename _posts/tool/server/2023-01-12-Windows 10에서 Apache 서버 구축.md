@@ -13,9 +13,9 @@ tags:
 
 # 2. 사용법
 ```
-├ Apache2
-│	    ─ bin
-│   	─ conf
+Apache2
+  bin
+  conf
 ```
 
 그럼 위와 같은 디렉토리 구조를 가지는데 `conf/`로 이동한 다음에 `httpd.conf`를 메모장 프로그램으로 연다.<br>
