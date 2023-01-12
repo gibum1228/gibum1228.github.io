@@ -24,8 +24,8 @@ description              : "개발 및 연구 기록 블로그"
 url                      : "https://gibum1228.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gibum1228/gibum1228.github.io"
-teaser                   : "assets/images/beom.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/beom.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "" # path of fallback teaser image, e.g. "/assets/images/500x300.png" 썸네일
+logo                     : "" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" nav바 이미지
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
