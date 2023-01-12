@@ -1,5 +1,5 @@
 ---
-title: "[Jupyter] 주피터 노트북 ERROR "Bad file descriptor""
+title: '[Jupyter] 주피터 노트북 ERROR "Bad file descriptor"'
 
 categories:
   - trouble_shooting
